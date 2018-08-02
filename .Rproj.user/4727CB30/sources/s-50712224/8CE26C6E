@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533243180700.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1760526020",
+    "id" : "8CE26C6E",
+    "lastKnownWriteTime" : 1533243159,
+    "last_content_update" : 1533243159,
+    "path" : "C:/Users/Noah/Desktop/fatsistatsi/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
