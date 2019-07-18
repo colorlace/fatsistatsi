@@ -1,0 +1,9 @@
+{
+    "path" : "~/fatsistatsi",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

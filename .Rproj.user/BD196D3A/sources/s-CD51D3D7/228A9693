@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559650478178.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "228A9693",
+    "lastKnownWriteTime" : 1559823560,
+    "last_content_update" : 1559823560232,
+    "path" : "~/fatsistatsi/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "82,0",
+        "scrollLine" : "62"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

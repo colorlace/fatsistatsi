@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560344948881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6BAC172A",
+    "lastKnownWriteTime" : 1560345073,
+    "last_content_update" : 1560345073028,
+    "path" : "~/fatsistatsi/content/book_reviews/the_sun_also_rises.Rmd",
+    "project_path" : "content/book_reviews/the_sun_also_rises.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,1053",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
